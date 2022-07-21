@@ -1,0 +1,9 @@
+theme = "hugo-theme-cleanwhite-rsy"
+
+
+[params]
+  header_image = "/static/img/ceci.jpeg"
+  title = "Pedro Coutinho"
+  slogan = ">> 0.0.0.0"
+  SEOTitle = "P. blog"
+  keyword = "Rich, Youngkin, Raspberry, Pi, Docker, Kubernetes, Go, Golang, Microservice"
